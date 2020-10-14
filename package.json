@@ -1,6 +1,6 @@
 {
   "name": "logged-it",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Console logs the text in a beautiful way",
   "license": "MIT",
   "repository": "aedit/logged-it",
